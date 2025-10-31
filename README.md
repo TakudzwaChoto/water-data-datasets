@@ -1,2 +1,2 @@
-# water-data-finetune-model
+# water-data-datasets
 water-data
